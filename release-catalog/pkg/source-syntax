@@ -2,8 +2,8 @@
 #hash(
 (author . "samth@racket-lang.org stamourv@racket-lang.org eli@racket-lang.org")
 (authors . ("samth@racket-lang.org" "stamourv@racket-lang.org" "eli@racket-lang.org"))
-(checksum . "cb743f632da98748096b6b4faa35d737e8e47dbc")
+(checksum . "362612aaf4e4227c51540bbdd2c1437d225c6cab")
 (dependencies . ("base"))
 (description . "find mappings from expanded to source syntax")
 (name . "source-syntax")
-(source . "git://github.com/racket/typed-racket/?path=source-syntax#v6.12"))
+(source . "git://github.com/dfeltey/typed-racket/tree/objectc-opaque-612/source-syntax"))
