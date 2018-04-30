@@ -6,4 +6,4 @@
 (dependencies . ("typed-racket-lib" "typed-racket-doc"))
 (description . "The implementation of the Typed Racket language")
 (name . "typed-racket")
-(source . "git://github.com/dfeltey/typed-racket/tree/objectc-opaque-612/typed-racket"))
+(source . "git://github.com/dfeltey/typed-racket/?path=typed-racket#vobjectc-opaque-612"))

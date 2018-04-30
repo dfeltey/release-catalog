@@ -6,4 +6,4 @@
 (dependencies . ("scheme-lib" "typed-racket-lib" "base"))
 (description . "compatibility library for older Typed Racket-based languages")
 (name . "typed-racket-compatibility")
-(source . "git://github.com/dfeltey/typed-racket/tree/objectc-opaque-612/typed-racket-compatibility"))
+(source . "git://github.com/dfeltey/typed-racket/?path=typed-racket-compatibility#objectc-opaque-612"))
